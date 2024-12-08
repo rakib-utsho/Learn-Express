@@ -14,3 +14,8 @@ Express.js, or simply Express, is a back end web application framework for build
 
 ### For more information visit
 - https://www.npmjs.com/package/express
+
+### Important method
+
+ 1. app.listen (For Access Port)
+ 2. app.use (For Control request like GET/POST)

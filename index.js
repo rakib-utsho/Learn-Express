@@ -7,4 +7,8 @@ let port = 3000; //Ports are the logical endpoints of a network connection that 
 
 app.listen(port, () =>{
     console.log(`app is listening on port ${port}`);
+});
+
+app.use((req, res) => {
+    console.log("request received");
 })
