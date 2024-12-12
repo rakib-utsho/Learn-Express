@@ -19,3 +19,11 @@ Express.js, or simply Express, is a back end web application framework for build
 
  1. app.listen (For Access Port)
  2. app.use (For Control request like GET/POST)
+ 3. Sending a Response most important parameter was request (req) and response (res)
+
+ #### Express Work -
+ * Listen for request
+ * parse request (text based request convert into object thats why javascript understand the request)
+ 
+ ### Routing
+ 
