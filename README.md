@@ -28,3 +28,9 @@ Express.js, or simply Express, is a back end web application framework for build
  
  ### Routing
  It is a process of selecting a path for traffic in a network or between or across multiple networks.
+
+ app.get("*") define wildcat path
+
+ ### Nodemon
+A package for automatically restart server with code changes.
+ * install Nodemon = "$- npm install nodemon 
